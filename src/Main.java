@@ -26,9 +26,9 @@ public class Main {
 
         boolean executando = true;
 
-        System.out.println("==================================================");
-        System.out.println("          SISTEMA SUPERVISÓRIO INDUSTRIAL         ");
-        System.out.println("==================================================");
+        System.out.println("===============================================================");
+        System.out.println("          SISTEMA SUPERVISÓRIO INDUSTRIAL - Lucas Neves         ");
+        System.out.println("================================================================");
 
         while (executando) {
             System.out.println("PAINEL GERAL");
